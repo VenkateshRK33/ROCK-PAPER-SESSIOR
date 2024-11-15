@@ -5,6 +5,7 @@
         System.out.println("LET'S BEGIN THE GAME");
         System.out.println("choose between -rock,paper,sessior");
 
+        
         String playermove= sc.nextLine();
 
         Random random=new Random();
